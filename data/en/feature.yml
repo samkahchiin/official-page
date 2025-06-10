@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item : 
+  title : Are you an entrepreneur, a woman-led business, or an SME in Malaysia struggling with technology?
+  content : "In today's fast-paced digital world, a strong online presence and efficient digital tools are no longer optional – they're essential for growth. But navigating the complexities of web development, SEO, cloud solutions, and digital transformation can be daunting. You might be facing:"
+  feature_item :
       # feature item loop
-    - title : SEO Optimized
+    - title : Confusing Jargon
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Tech talk that leaves you feeling overwhelmed and unsure.
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
+    - title : High Costs
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Traditional consultancy fees that are out of reach for small businesses.
+
       # feature item loop
-    - title : Easy Customization
+    - title : Lack of Clear Direction
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Uncertainty about which digital strategies are right for your business goals.
+
+      # feature item loop
+    - title : Time Constraints
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Not enough hours in the day to manage your business AND its digital needs.
